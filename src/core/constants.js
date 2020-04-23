@@ -20,7 +20,7 @@ const spatialResolution = 1e5
  *  This should be 1 / spacialResolution.
  * @default
  */
-const EPS = 1e-5
+const EPS = 1e-4
 
 /** Epsilon used during determination of near zero areas.
  * @default
