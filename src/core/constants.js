@@ -12,7 +12,7 @@ const defaultResolution3D = 12
 /** Epsilon used during determination of near zero distances.
  * @default
  */
-const EPS = 1e-4
+const EPS = 1e-3
 
 /** Epsilon used during determination of near zero areas.
  * @default
